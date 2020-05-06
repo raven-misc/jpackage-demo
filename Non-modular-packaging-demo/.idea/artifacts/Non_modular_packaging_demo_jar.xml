@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Non-modular-packaging-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Non_modular_packaging_demo_jar</output-path>
+    <root id="archive" name="Non-modular-packaging-demo.jar">
+      <element id="module-output" name="Non-modular-packaging-demo" />
+    </root>
+  </artifact>
+</component>
